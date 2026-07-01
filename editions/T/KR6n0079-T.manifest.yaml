@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6n0079/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0079/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三無性論
+  identifiers:
+    krp: KR6n0079
+    cbeta: T31n1617
+    cbeta_old_id: T31n1617
+    authorityid: CA0002749
+    json_key: T1617
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1617.xml
+    old_id: T31n1617
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0079_000-T.yaml, hash: 'sha256:3711cff399f6a4ba43cad1a75e3df3baedc70bf2a4b846fef6af1b34277e2264'}
+  - {seq: 1, filename: KR6n0079_001-T.yaml, hash: 'sha256:a531ee4d39974a478875ae034b228e6bb79c2481c861ce8f293b27767cddb7d6'}
+  - {seq: 2, filename: KR6n0079_002-T.yaml, hash: 'sha256:029dd2fbc4fec97e22e576ef8d0525e1115ad8101b5584e4946e3a718425204e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0079_000-T.markers.yaml, hash: 'sha256:3c2ffdb8064bb94af83e5ce9f08cd2bebc899f7cbdccd50ca739abe315365feb'}
+  - {seq: 1, role: markers, filename: assets/KR6n0079_001-T.markers.yaml, hash: 'sha256:4ab7c9f40ba6e669cd329b6c69a8bebf877d204abd911bb806ef8657434ab981'}
+  - {seq: 2, role: markers, filename: assets/KR6n0079_002-T.markers.yaml, hash: 'sha256:4e41edf8e7ebf32f5f5c2c6b6e75260ccf734f7f21adc5dfcb998f9fe945f83c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0079_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8225
+  label: 三無性論卷上出《無相論》
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0079_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7599
+  label: 三無性論卷下出《無相論》
+  type: juan
+  level: 1
+hash: sha256:4614de35131989b02197e2023ef8fa26a0df50f5ae86de0f1ac3801e363fce38
