@@ -40,11 +40,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0079_000.yaml, hash: 'sha256:3711cff399f6a4ba43cad1a75e3df3baedc70bf2a4b846fef6af1b34277e2264'}
-  - {seq: 1, filename: KR6n0079_001.yaml, hash: 'sha256:8c3b95fbb40f965257e6cc5276a0818e5a7616d09b7c4076ba7a836e816b5b4c'}
-  - {seq: 2, filename: KR6n0079_002.yaml, hash: 'sha256:4c7e732e27f68465e10ddfe5262ae1fcfa8302f9850cc43f7d5539a146e06d39'}
+  - {seq: 1, filename: KR6n0079_001.yaml, hash: 'sha256:a531ee4d39974a478875ae034b228e6bb79c2481c861ce8f293b27767cddb7d6'}
+  - {seq: 2, filename: KR6n0079_002.yaml, hash: 'sha256:029dd2fbc4fec97e22e576ef8d0525e1115ad8101b5584e4946e3a718425204e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0079_001.markers.yaml, hash: 'sha256:c2aa099faccfbb2e6e64003911edbc068d1f468c87aed26e9d1b4a1780485ae1'}
-  - {seq: 2, role: markers, filename: assets/KR6n0079_002.markers.yaml, hash: 'sha256:9d5af613ab42bbb7b78e2e4301c12946005c959211a522b7e9e4a6ddb175a19d'}
+  - {seq: 0, role: markers, filename: assets/KR6n0079_000.markers.yaml, hash: 'sha256:6ba640428e816e808686792b5d61fe71ae5e7e0dea05b07387fd18bf3b22416e'}
+  - {seq: 1, role: markers, filename: assets/KR6n0079_001.markers.yaml, hash: 'sha256:98ecbf57701cfd69498547d1f1c03c20a3c61004f8e6e135d4a1e87c042f860b'}
+  - {seq: 2, role: markers, filename: assets/KR6n0079_002.markers.yaml, hash: 'sha256:3d942f3201f185c1d32934130eada05f6dc38d5ea7712cb11f57bb9d5682d025'}
 table_of_contents:
 - ref:
     seq: 1
@@ -66,7 +67,4 @@ table_of_contents:
   label: 三無性論卷下出《無相論》
   type: juan
   level: 1
-hash: sha256:cab83ebfa8d16568b5dbb34495f071d1969079f44d4b84972c98754df817e4e7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6f9c2d321a72fd9fe4c0250682ca839f1ceb57bea40ab869418e168ca4ef4513
