@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0079/v1
 canonical_location: https://kanripo.org/bkk/KR6n0079/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 三無性論
   identifiers:
@@ -40,12 +40,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0079_000.yaml, hash: 'sha256:3711cff399f6a4ba43cad1a75e3df3baedc70bf2a4b846fef6af1b34277e2264'}
-  - {seq: 1, filename: KR6n0079_001.yaml, hash: 'sha256:a531ee4d39974a478875ae034b228e6bb79c2481c861ce8f293b27767cddb7d6'}
-  - {seq: 2, filename: KR6n0079_002.yaml, hash: 'sha256:029dd2fbc4fec97e22e576ef8d0525e1115ad8101b5584e4946e3a718425204e'}
+  - {seq: 1, filename: KR6n0079_001.yaml, hash: 'sha256:25b17f4349f30f1a8b25a43597290df3c8b5da19c8bc102045bf35262af585af'}
+  - {seq: 2, filename: KR6n0079_002.yaml, hash: 'sha256:30e6e66041f590dcc38bcc0ea2755e740e4a3d318a85e9d207347bdee0b53d4a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0079_000.markers.yaml, hash: 'sha256:6ba640428e816e808686792b5d61fe71ae5e7e0dea05b07387fd18bf3b22416e'}
-  - {seq: 1, role: markers, filename: assets/KR6n0079_001.markers.yaml, hash: 'sha256:98ecbf57701cfd69498547d1f1c03c20a3c61004f8e6e135d4a1e87c042f860b'}
-  - {seq: 2, role: markers, filename: assets/KR6n0079_002.markers.yaml, hash: 'sha256:3d942f3201f185c1d32934130eada05f6dc38d5ea7712cb11f57bb9d5682d025'}
+  - {seq: 1, role: markers, filename: assets/KR6n0079_001.markers.yaml, hash: 'sha256:b3f834d2edaa8744c6445fd61f9eda3d17133ec671df44b2c1913ccaf54834a9'}
+  - {seq: 2, role: markers, filename: assets/KR6n0079_002.markers.yaml, hash: 'sha256:bc366031442b839b7755171fcb7220ad227eaa797a0c953e18d61e4e75c0d03d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: 三無性論卷下出《無相論》
   type: juan
   level: 1
-hash: sha256:6f9c2d321a72fd9fe4c0250682ca839f1ceb57bea40ab869418e168ca4ef4513
+hash: sha256:07dcf312e817ce095a0609684d254d77956f2c671a5610b55be46d3569e3af04
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
